@@ -1,0 +1,12 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imagenNav {
+    max-width: 2em;
+}
+.textoNav {
+    font-size: 17px;
+}
+
