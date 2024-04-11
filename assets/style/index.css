@@ -14,6 +14,11 @@
 }
 .mensaje {
     height: 200px;
-
+}
+.footericon {
+    font-size: 25px;
+}
+.footertext {
+    font-weight: 200
 }
 
