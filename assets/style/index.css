@@ -24,4 +24,6 @@
 .footertext {
     font-weight: 200
 }
-
+footer a {
+    color: #fff;
+}
