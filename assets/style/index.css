@@ -6,6 +6,9 @@
 .imagenNav {
     max-width: 2em;
 }
+.navbar-dark .navbar-toggler-icon {
+    color: white;
+}
 .textoNav {
     font-size: 17px;
 }
